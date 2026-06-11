@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Kategori Barang - StockFlow')
-@section('page_title', 'Master Kategori Barang')
+@section('title', 'Kategori Barang - Gundang HP')
+@section('page_title', 'Kategori Barang')
 
 @section('content')
     <div class="space-y-8 animate-fade-in" x-data="{ modalTambah: false, modalEdit: false, modalDetail: false, currentId: '', currentNama: '', detailTanggal: '' }">

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Persediaan Barang - StockFlow')
+@section('title', 'Persediaan Barang - Gundang HP')
 @section('page_title', 'Persediaan Barang')
 
 @section('content')

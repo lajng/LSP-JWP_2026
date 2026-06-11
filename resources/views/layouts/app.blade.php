@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@yield('title', 'StockFlow Dashboard')</title>
+    <title>@yield('title', 'Gundang HP Dashboard')</title>
     @vite('resources/css/app.css')
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
@@ -23,7 +23,7 @@
                             d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"></path>
                     </svg>
                 </div>
-                <span class="text-xl font-black tracking-widest">GUDANG HP Yteam</span>
+                <span class="text-xl font-black tracking-widest">GUDANG HP </span>
             </div>
 
             <div class="hidden md:flex items-center space-x-2" x-data="{ openMaster: false }">

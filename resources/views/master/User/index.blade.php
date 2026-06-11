@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Manajemen Pengguna - StockFlow')
-@section('page_title', 'Master Manajemen Pengguna')
+@section('title', 'Manajemen Pengguna - Gundang HP')
+@section('page_title', 'Manajemen Pengguna')
 
 @section('content')
     <div class="space-y-8 animate-fade-in" x-data="{ modalTambah: false, modalEdit: false, modalDetail: false, currentId: '', currentNama: '', currentEmail: '', currentRole: '', detailTanggal: '' }">

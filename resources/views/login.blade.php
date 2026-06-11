@@ -27,7 +27,7 @@
                             d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"></path>
                     </svg>
                 </div>
-                <h1 class="text-2xl font-black tracking-wider text-white">Gudang HP Yteam</h1>
+                <h1 class="text-2xl font-black tracking-wider text-white">Gudang HP </h1>
                 <p class="text-[10px] text-indigo-300 mt-1 uppercase tracking-widest font-semibold">Gudang HP terbaik</p>
             </div>
         </div>
@@ -119,7 +119,7 @@
 
         <!-- FOOTER -->
         <div class="bg-slate-50 px-8 py-4 border-t border-slate-100 text-center text-xs text-slate-400">
-            &copy; {{ date('Y') }} StockFlow. All rights reserved.
+            &copy; {{ date('Y') }} Gundang HP. All rights reserved.
         </div>
     </div>
 
